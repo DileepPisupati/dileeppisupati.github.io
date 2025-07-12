@@ -4,6 +4,9 @@ date: '2025-07-12'
 description: Dileep Pisupati's detailed profile
 ---
 
+<h1 class="hero-title">Dileep<br>Pisupati</h1>
+
+
 ## About Me
 
 With *5+ years of cross-functional experience* across manufacturing strategy, battery systems, supply chain consulting, and techno-commercial execution, I specialize in **turning complexity into cost savings, product reliability, and faster time-to-market**. My expertise lies in applying Lean Six Sigma and agile frameworks to solve real-world problems in defence, automotive, and energy sectors.
