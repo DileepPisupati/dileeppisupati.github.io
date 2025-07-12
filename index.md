@@ -1,8 +1,3 @@
----
-title: Dileep Pisupati
-date: '2025-07-12'
-description: Dileep Pisupati's detailed profile
----
 
 <h1 class="hero-title">Dileep Pisupati</h1>
 
