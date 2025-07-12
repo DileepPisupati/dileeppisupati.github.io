@@ -62,7 +62,7 @@ Lean Six Sigma | Supply Chain Strategy | NPD | Python | Power BI | Tecnomatix | 
 
 # 📫 Contact
 Email: [dileepadityadhar@gmail.com](mailto:dileepadityadhar@gmail.com)  
-LinkedIn: [linkedin.com/in/p-v-s-dileep](https://linkedin.com/in/p-v-s-dileep)  
+LinkedIn: [Dileep Pisupati](https://linkedin.com/in/p-v-s-dileep)  
 Phone: 📞 +91-9182625046
 
 📄 [Download My Resume](assets/Dileep_Resume.pdf)
