@@ -1,5 +1,5 @@
 ---
-title: Dileep Resume and detailed profile
+title: Dileep Pisupati
 date: '2025-07-12'
 description: Dileep Pisupati's detailed profile
 ---
